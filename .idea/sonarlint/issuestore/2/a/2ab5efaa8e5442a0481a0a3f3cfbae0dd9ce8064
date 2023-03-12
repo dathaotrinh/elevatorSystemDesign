@@ -1,0 +1,6 @@
+
+•
+java:S1319"sThe return type of this method should be an interface such as "SortedSet" rather than the implementation "TreeSet".(šÖÃÔüÿÿÿÿ8úÀîµé0
+†
+java:S1319"iThe type of "floors" should be an interface such as "SortedSet" rather than the implementation "TreeSet".(ä¤ùâ8úÀîµé0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó‡Çøÿÿÿÿ
